@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+.pnpm
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Compiled output
+*.class
+*.war
+*.ear
+*.jar
+
+# Cache files
+*.log
+*.cache
+
+# Yarn
+yarn-error.log
